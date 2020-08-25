@@ -1,4 +1,6 @@
 # Overview
+![Cover Image](https://hackster.imgix.net/uploads/attachments/468239/blob_YPjLsisq3N.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 Have you ever dreamt of your home's lights to turn on when you approach your house, so you will never walk into your house and be surrounded by darkness? This device aims to do all of that for you, so your lights will be on when you get close to your house using GPS. The lights will remain on when you are inside the house.
 
 # Continue Reading
