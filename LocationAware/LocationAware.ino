@@ -47,7 +47,7 @@ void readGPS()
   {
     if (gps.encode(ss.read()))
     {
-      //processGPS();
+      processGPS();
     }
   }
 
