@@ -7,7 +7,7 @@
 #include <Bridge.h>
 #include <BlynkSimpleYun.h>
 
-char auth[] = "11ef6af25a124bfab61ac3d5a788cbb5"; // insert project token
+char auth[] = ""; // insert project token
 
 float latitude;
 float longitude;
